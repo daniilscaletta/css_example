@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "flag-v";
+    src: url("https://css_task_test.requestcatcher.com/flag?v");
+}
+option[value*="v"] {
+    font-family: "flag-v";
+}
