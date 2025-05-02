@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "flag-vka";
+    src: url("https://css_task_test.requestcatcher.com/flag?vka");
+}
+option[value^="vka"] {
+    font-family: "flag-vka";
+}
