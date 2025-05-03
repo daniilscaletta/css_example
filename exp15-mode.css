@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "flag-vka{a";
+    src: url("https://css_task_test.requestcatcher.com/flag?vka%7Ba");
+}
+p:nth-of-type(4) option[value^="vka{a"] {
+    font-family: "flag-vka{a";
+}
+
+@font-face {
+    font-family: "flag-vka{b";
+    src: url("https://css_task_test.requestcatcher.com/flag?vka%7Bb");
+}
+p:nth-of-type(4) option[value^="vka{b"] {
+    font-family: "flag-vka{b";
+}
+
+@font-face {
+    font-family: "flag-vka{c";
+    src: url("https://css_task_test.requestcatcher.com/flag?vka%7Bc");
+}
+p:nth-of-type(4) option[value^="vka{c"] {
+    font-family: "flag-vka{c";
+}
+
+@font-face {
+    font-family: "flag-vka{a";
+    src: url("https://css_task_test.requestcatcher.com/flag?vka%7Ba");
+}
+p:nth-of-type(4) option[value^="vka{a"] {
+    font-family: "flag-vka{a";
+}
+
+@font-face {
+    font-family: "flag-vka{g";
+    src: url("https://css_task_test.requestcatcher.com/flag?vka%7Bg");
+}
+p:nth-of-type(4) option[value^="vka{g"] {
+    font-family: "flag-vka{g";
+}
+
+@font-face {
+    font-family: "flag-vka{h";
+    src: url("https://css_task_test.requestcatcher.com/flag?vka%7Bh");
+}
+p:nth-of-type(4) option[value^="vka{h"] {
+    font-family: "flag-vka{h";
+}
+
+@font-face {
+    font-family: "flag-vka{i";
+    src: url("https://css_task_test.requestcatcher.com/flag?vka%7Bi");
+}
+p:nth-of-type(4) option[value^="vka{i"] {
+    font-family: "flag-vka{i";
+}
