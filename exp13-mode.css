@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "flag-vko{";
+    src: url("https://css_task_test.requestcatcher.com/flag?vko%7B");
+}
+p:nth-of-type(4) option[value^="vko{"] {
+    font-family: "flag-vko{";
+}
+
+@font-face {
+    font-family: "flag-vka{";
+    src: url("https://css_task_test.requestcatcher.com/flag?vka%7B");
+}
+p:nth-of-type(4) option[value^="vka{"] {
+    font-family: "flag-vka{";
+}
+
+
+@font-face {
+    font-family: "flag-vak{";
+    src: url("https://css_task_test.requestcatcher.com/flag?vak%7B");
+}
+p:nth-of-type(4) option[value^="vak{"] {
+    font-family: "flag-vak{";
+}
