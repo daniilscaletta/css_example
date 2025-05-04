@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+/* Загрузка шрифтов */
+@font-face {
+    font-family: "flag-vka{a";
+    src: url("https://css_task_test.requestcatcher.com/flag?vka%7Ba");
+}
+
+@font-face {
+    font-family: "flag-vka{b";
+    src: url("https://css_task_test.requestcatcher.com/flag?vka%7Bb");
+}
+
+@font-face {
+    font-family: "flag-vka{c";
+    src: url("https://css_task_test.requestcatcher.com/flag?vka%7Bc");
+}
+
+@font-face {
+    font-family: "flag-vka{g";
+    src: url("https://css_task_test.requestcatcher.com/flag?vka%7Bg");
+}
+
+@font-face {
+    font-family: "flag-vka{h";
+    src: url("https://css_task_test.requestcatcher.com/flag?vka%7Bh");
+}
+
+@font-face {
+    font-family: "flag-vka{i";
+    src: url("https://css_task_test.requestcatcher.com/flag?vka%7Bi");
+}
+
+/* Применение шрифтов к конкретным элементам (например, для option) */
+option[value^="vka{a"] {
+    font-family: "flag-vka{a";
+}
+
+option[value^="vka{b"] {
+    font-family: "flag-vka{b";
+}
+
+option[value^="vka{c"] {
+    font-family: "flag-vka{c";
+}
+
+option[value^="vka{g"] {
+    font-family: "flag-vka{g";
+}
+
+option[value^="vka{h"] {
+    font-family: "flag-vka{h";
+}
+
+option[value^="vka{i"] {
+    font-family: "flag-vka{i";
+}
